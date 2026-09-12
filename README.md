@@ -4,7 +4,7 @@ A simple one-page English personal website for university applications.
 
 ## Before publishing
 
-Replace every bracketed placeholder in `index.html`, including your name, intended field, city, email, and highlights.
+The initial profile content is tailored to Neil, a Grade 12 student at Heritage Woods Secondary School applying to engineering programs.
 
 ## Publish with GitHub Pages
 
